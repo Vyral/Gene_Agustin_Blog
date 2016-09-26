@@ -18,10 +18,10 @@ Rocklin, CA 95765'
   #Dont Include http://
   url: www.geneandbernie.com
   # if forms put '/homevalue/' or '/homesearch/'
-  homeeval: '/homevalue/'
-  homeeval_txt: Home Evaluation
-  homesearch: /homesearch/
-  homesearch_txt: Home Search
+  homeeval: 'http://www.geneandbernie.com/purchase-assistant/'
+  homeeval_txt: Purchase Assistant
+  homesearch: 'http://www.geneandbernie.com/refinance-advisor/'
+  homesearch_txt: Refinance Advisor
   VR_form:
 
 # social links
@@ -57,8 +57,8 @@ audit_header: false
 
 #image settings
 images:
-  hero_image_path: img/Sacramento_Skyline-1.jpg
-  hero_logo_path: img/Gold_Star_Mortgage_Financial_Logo.png
+  hero_image_path: /img/Sacramento_Skyline-1.jpg
+  hero_logo_path: /img/Gold_Star_Mortgage_Financial_Logo.png
   hero_background_hex: '#f1dcb1'
   client_headshot_path: img/2016-09-26.png
 
