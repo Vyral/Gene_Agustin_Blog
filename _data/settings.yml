@@ -1,16 +1,22 @@
+audit_header: true
 title: Gold Star Mortgage Financial Video Blog
 description: There is no such thing as a sad unicorn.
 
 #for the navbar links.
 custom_links:
-  # - title: Luxury Properties
-  #   url: http://www.sflivingspace.com/luxury-properties/
+  - title:
+    url:
 
 client:
-  market:
   name: 'Gene Agustin & Bernie Tomei'
+  license:
+  market:
+  about_markdown: |
+    'Founded in 2000 by Daniel Milstein, Gold Star is one of the nation’s premiere mortgage companies, doing business in 21 states, with over 30 Branches nationwide.
+
+    Gold Star is committed to delivering unsurpassed customer service to every borrower, corporate client and real estate professional. Our customer-focused, relationship-based sales model and commitment to continuous improvement of the loan process are keys to Gold Star’s continued growth.'
   brand: 'Gold Star Mortgage Financial Group<br>NMLS #3446'
-  brokerage: '#'
+  brokerage:
   address: '5701 Lone Tree Blvd Ste 217<br>
 Rocklin, CA 95765'
   phone: (408) 828-0575
@@ -18,25 +24,25 @@ Rocklin, CA 95765'
   #Dont Include http://
   url: www.geneandbernie.com
   # if forms put '/homevalue/' or '/homesearch/'
-  homeeval: 'http://www.geneandbernie.com/purchase-assistant/'
-  homeeval_txt: Purchase Assistant
-  homesearch: 'http://www.geneandbernie.com/refinance-advisor/'
-  homesearch_txt: Refinance Advisor
+  first_CTA_text: Purchase Assistant
+  first_CTA_URL: 'http://www.geneandbernie.com/purchase-assistant/'
+  second_CTA_text: Refinance Advisor
+  second_CTA_URL: 'http://www.geneandbernie.com/refinance-advisor/'
   VR_form: http://oi.vresp.com?fid=4e18b36301
 
 # social links
 socials:
-  facebook: 'https://www.facebook.com/GeneandBernie'
-  linkedin: 'https://www.linkedin.com/in/bernie-sands-2aa0689'
-  gplus: 'http://plus.google.com'
-  youtube: 'http://youtube.com'
-  twitter: 'http://twitter.com'
-  instagram: '#'
-  pinterest: '#'
-  zillow: 'https://www.zillow.com/lender-profile/gagustin/'
-  trulia: '#'
-  yelp: 'https://www.yelp.com/biz/gene-agustin-and-bernie-tomei-rocklin-2'
-  podcast: 'http://#.com'
+  facebook_url: 'https://www.facebook.com/GeneandBernie'
+  linkedin_url: 'https://www.linkedin.com/in/bernie-sands-2aa0689'
+  gplus_url: 'http://plus.google.com'
+  youtube_url: 'http://youtube.com'
+  twitter_url: 'http://twitter.com'
+  instagram_url:
+  pinterest_url:
+  zillow_url: 'https://www.zillow.com/lender-profile/gagustin/'
+  trulia_url:
+  yelp_url: 'https://www.yelp.com/biz/gene-agustin-and-bernie-tomei-rocklin-2'
+  podcast_url: 'http://#.com'
 
 #podcast settings
 podcast:
@@ -58,13 +64,14 @@ audit_header: false
 #image settings
 images:
   hero_image_path: /img/Sacramento_Skyline-1.jpg
+  hero_text:
   hero_logo_path: /img/Gold_Star_Mortgage_Financial_Logo.png
   hero_background_hex: '#f1dcb1'
   client_headshot_path: /img/2016-09-26.png
 
 #colors
-brand_hex: '#2d306d'
-theme_text: '#353535'
+brand_color: '#2d306d'
 theme_color: '#fff'
-fontcolor_hex: "#353535"
-testimonial_fontcolor: '#fff'
+theme_text_color: '#353535'
+main_body_color: '#ffffff'
+main_body_text_color: '#353535'

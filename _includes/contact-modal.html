@@ -4,19 +4,22 @@
     <strong class="label">Contact Us</strong>
     <address>
       <strong>{{site.data.settings.client.name}}</strong>
-      {% if site.data.settings.client.brand and site.data.settings.client.brokerage == "#" %}
+      {% if site.data.settings.client.brand and site.data.settings.client.brokerage == null %}
         <br>
         {{site.data.settings.client.address}}
-      {% elsif site.data.settings.client.brand == "#" %}
+				<br>
+      {% elsif site.data.settings.client.brand == null %}
         <br>
         {{site.data.settings.client.brokerage}}
         <br>
         {{site.data.settings.client.address}}
-      {% elsif site.data.settings.client.brokerage == "#" %}
+				<br>
+      {% elsif site.data.settings.client.brokerage == null %}
         <br>
         {{site.data.settings.client.brand}}
         <br>
         {{site.data.settings.client.address}}
+				<br>
       {% else %}
         <br>
         {{site.data.settings.client.brand}}
@@ -33,7 +36,7 @@
 
     <i class="fa fa-times-circle fa-2x exit" aria-hidden="true"></i>
 
-    <form class="contact-form" method="post" action="https://www.google.com/recaptcha/api/siteverify">
+    <form class="contact-form" method="post" action="http://formspree.io/{{site.data.settings.client.email}}">
       <input type="text" name="name" placeholder="Name" required>
       <input type="email" name="_replyto" placeholder="Email" required>
       <textarea name="Message" placeholder="Message"></textarea>
@@ -43,7 +46,6 @@
         <input type="hidden" name="_subject" value="Contact Message From Your {{site.data.settings.title}}">
         <input type="text" name="_gotcha">
       </div>
-      <!--<div class="g-recaptcha" data-sitekey="6Le4uAcUAAAAAAtobryRi5VisVDSC8uG2qr9rRCt"></div>-->
 
       <input type="submit" value="submit">
     </form>

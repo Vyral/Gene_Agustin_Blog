@@ -1368,12 +1368,12 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 28rem;
-  -webkit-filter: drop-shadow(0 2px 7px white);
-  filter: drop-shadow(0 2px 7px white); }
+  -webkit-filter: drop-shadow(0 2px 7px black);
+  filter: drop-shadow(0 2px 7px black); }
 
 .site-title {
   color: white;
-  text-shadow: 0 2px 7px white;
+  text-shadow: 0 2px 7px black;
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem; }
@@ -1429,7 +1429,7 @@ body {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
   color: #353535;
   margin: 0;
-  background: #fff; }
+  background: #ffffff; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
@@ -1522,6 +1522,7 @@ table tr, table td {
   fill: grey; }
 
 .warning {
+  padding-top: 10rem;
   background: red;
   color: white; }
 
@@ -1586,14 +1587,21 @@ table tr, table td {
   border-radius: 9px 9px 0 0;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); }
 
+.post-container {
+  padding-right: 20px; }
+
 .pad {
   padding: 0 2rem; }
 
 .post-list li {
   display: inline; }
 
-.post-title {
+.post-overview-title {
   font-size: 3rem;
+  text-align: left; }
+
+.post-title {
+  font-size: 5rem;
   text-align: left; }
 
 .post-image {
@@ -1665,13 +1673,13 @@ table tr, table td {
   .pullquote::after {
     content: "";
     height: 2rem;
-    width: 2.5rem;
+    width: 2.5625rem;
     background: url(/img/svg/tweetlink.svg);
     background-size: cover;
     background-position: right;
     display: inline-block;
     margin-left: 1rem;
-    overflow: hidden; }
+    overflow: visible; }
     .pullquote::after a {
       width: 3rem; }
 
@@ -1695,7 +1703,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0 2px 7px white; }
+  text-shadow: 0 2px 7px black; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -1710,7 +1718,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0 2px 7px white;
+  text-shadow: 0 2px 7px black;
   margin-bottom: 1rem; }
 
 .tag {
@@ -1721,7 +1729,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0 2px 7px white;
+  text-shadow: 0 2px 7px black;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -1797,6 +1805,9 @@ table tr, table td {
     margin: 1.5rem; }
   .post .headshot {
     display: none; } }
+@media (max-width: 992px) {
+  .post-container {
+    padding-right: 0px; } }
 .socials {
   padding: 0.7rem;
   margin-bottom: 0.7rem; }
@@ -1809,8 +1820,8 @@ table tr, table td {
       display: inline-block; }
   .socials svg {
     fill: #2d306d;
-    height: 4rem;
-    width: 4rem;
+    height: 3.5rem;
+    width: 3.5rem;
     border-radius: 50%;
     -webkit-transition: all 0.15s ease-out 0s;
     transition: all 0.15s ease-out 0s; }
@@ -1860,12 +1871,12 @@ table tr, table td {
 
 @media (max-width: 1450px) {
   .socials svg {
-    height: 4rem;
-    width: 4rem; } }
-@media (max-width: 1000px) {
-  .socials svg {
     height: 3rem;
-    width: 3rem; }
+    width: 3rem; } }
+@media (max-width: 1255px) {
+  .socials svg {
+    height: 2.7rem;
+    width: 2.7rem; }
 
   .footer-socials .socials svg {
     height: 2.4rem;
