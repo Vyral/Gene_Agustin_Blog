@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A Valuable New Real Estate Resource for You
+title: A Valuable New Resource for You
 tags:
   - Real Estate
-excerpt: "On my channel, you'll find tips for both buyers and sellers in the real estate market, as well as updates on what's happening in our local market. The real estate market affects all of us!"
+excerpt: "On our channel, you'll find tips for both buyers and sellers in the real estate market, as well as updates on what's happening in our local market. The real estate market affects all of us!"
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -18,8 +18,8 @@ youtube_code: Ach5PxBQ52Q
 
 I'd like to welcome you to my new YouTube Channel.
 
-On my channel, you'll find tips for both buyers and sellers in the real estate market, as well as updates on what's happening in our local market. The real estate market affects all of us!
+On our channel, we will be sharing our real estate & mortgage expertise with you. There are tips for both buyers and sellers in the real estate market, as well as updates on what's happening in our local market.&nbsp;
 
-**I really want this page to be a valuable resource for you.** If you have any questions about our market or about real estate in general, send me an email. Odds are good that if you have a question about a topic, someone else does as well, so send your questions my way and we'll make an educational video.
+**We really want this page to be a valuable resource for you.** If you have any questions about our market or the financial side of real estate, send me us an email. Odds are good that if you have a question about a topic, someone else does as well, so send your questions our way and we'll make an educational video.
 
-Take a look around the channel and subscribe. I look forward to hearing from you soon!
+Take a look around the channel and subscribe. We look forward to hearing from you soon!
