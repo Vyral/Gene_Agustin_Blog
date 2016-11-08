@@ -3,7 +3,7 @@ layout: post
 title: A Valuable New Real Estate Resource for You
 tags:
   - Real Estate
-excerpt:
+excerpt: "On my channel, you'll find tips for both buyers and sellers in the real estate market, as well as updates on what's happening in our local market. The real estate market affects all of us!"
 enclosure:
 pullquote:
 enclosure_type: video/mp4
