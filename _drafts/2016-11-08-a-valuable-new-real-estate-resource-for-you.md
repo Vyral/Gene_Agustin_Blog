@@ -3,7 +3,7 @@ layout: post
 title: A Valuable New Resource for You
 tags:
   - Real Estate
-excerpt: "On our channel, you'll find tips for both buyers and sellers in the real estate market, as well as updates on what's happening in our local market. The real estate market affects all of us!"
+excerpt: "On our channel, we will be sharing our real estate & mortgage expertise with you. There are tips for both buyers and sellers in the real estate market, as well as updates on what's happening in our local market."
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -16,7 +16,7 @@ youtube_code: Ach5PxBQ52Q
 
 {% include youtube.html %}
 
-I'd like to welcome you to my new YouTube Channel.
+I'd like to welcome you to our new YouTube Channel.
 
 On our channel, we will be sharing our real estate & mortgage expertise with you. There are tips for both buyers and sellers in the real estate market, as well as updates on what's happening in our local market.&nbsp;
 
