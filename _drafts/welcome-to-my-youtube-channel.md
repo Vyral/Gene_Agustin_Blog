@@ -1,20 +1,25 @@
 ---
 layout: post
-title:
+title: A Valuable New Real Estate Resource for You
 tags:
-  - Market Update
   - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: Ach5PxBQ52Q
 ---
+
+
 {% include youtube.html %}
 
-{% include pullquote.html %}
+I'd like to welcome you to my new YouTube Channel.
+
+On my channel, you'll find tips for both buyers and sellers in the real estate market, as well as updates on what's happening in our local market. The real estate market affects all of us!
+
+**I really want this page to be a valuable resource for you.** If you have any questions about our market or about real estate in general, send me an email. Odds are good that if you have a question about a topic, someone else does as well, so send your questions my way and we'll make an educational video.
+
+Take a look around the channel and subscribe. I look forward to hearing from you soon!
