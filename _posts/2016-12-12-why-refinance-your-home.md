@@ -8,7 +8,7 @@ tags:
   - Home Seller Tips
   - Mortgage
 excerpt: 'There are two reasons homeowners decide to refinance their home: to improve their cash flow or to pay their home off faster.'
-enclosure:
+enclosure: '<iframe width="480" height="270" src="https://www.youtube.com/embed/ACzEpFS2FRI" frameborder="0" allowfullscreen></iframe>'
 pullquote: Refinancing can save tens of thousands of dollars.
 enclosure_type: video/mp4
 enclosure_time:
