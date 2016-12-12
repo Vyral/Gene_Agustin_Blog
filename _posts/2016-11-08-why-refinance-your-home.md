@@ -27,4 +27,6 @@ For example, let’s say you’re at 4.5% interest rate today and then six month
 
 **That difference in payment should allow you to shave an extra three to four years off the lifetime of your loan.** If you can use lender credit to cover your closing costs, you can continue to use this strategy over and over, as long as rates continue to drop.
 
+> &nbsp;
+
 If you’re looking to buy, sell, or refinance, feel free to give us a call or send us an email for a complimentary consultation. We hope to hear from you soon!
