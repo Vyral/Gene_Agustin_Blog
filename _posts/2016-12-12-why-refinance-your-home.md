@@ -19,11 +19,11 @@ youtube_code: ACzEpFS2FRI
 
 Why would someone want to refinance their home?
 
-There are two main reasons. **The first is to improve their cash flow. The second is to pay their house off faster.**Unfortunately, it’s usually limited to either one or the other.
+There are two main reasons. **The first is to improve their cash flow. The second is to pay their house off faster.&nbsp;**Unfortunately, it’s usually limited to either one or the other.
 
-Refinancing on behalf of cash flow is more frequent, and it’s something we we a lot with first-time home buyers who are only planning on staying in their home for five to seven years. Refinancing to pay off your house faster is a strategy we sometimes use with clients, too.
+Refinancing on behalf of cash flow is more frequent, and it’s something we see a lot with first-time home buyers who are only planning on staying in their home for five to seven years. Refinancing to pay off your house faster is a strategy we sometimes use with clients, too.
 
-For example, let’s say you’re at 4.5% interest rate today and then six months down the line, the interest rate drops to 4%. Some clients would be hesitant to take advantage of this change because they’re afraid that they’re going to reset the clock on their mortgage. My advice to them would be to refinance to the lower interest rate but continue to make the same payment they’re making at 4.5%.
+For example, let’s say you’re at a 4.5% interest rate today and then six months down the line the interest rate drops to 4%. Some clients would be hesitant to take advantage of this change because they’re afraid that they’re going to reset the clock on their mortgage. My advice to them would be to refinance to the lower interest rate but continue to make the same payment they’re making at 4.5%.
 
 **That difference in payment should allow you to shave an extra three to four years off the lifetime of your loan.** If you can use lender credit to cover your closing costs, you can continue to use this strategy over and over, as long as rates continue to drop.
 
