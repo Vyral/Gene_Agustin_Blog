@@ -5,7 +5,7 @@ tags:
   - Real Estate
   - Mortgage
 excerpt: 'There are two reasons homeowners decide to refinance their home: to improve their cash flow or to pay their home off faster.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Welcome+to+our+youtube+channel.mp4'
 pullquote: Refinancing can save tens of thousands of dollars.
 enclosure_type: video/mp4
 enclosure_time:
