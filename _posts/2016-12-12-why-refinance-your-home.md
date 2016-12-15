@@ -19,7 +19,7 @@ youtube_code: ACzEpFS2FRI
 
 Why would someone want to refinance their home?
 
-There are two main reasons. **The first is to improve their cash flow. The second is to pay their house off faster.&nbsp;**Unfortunately, it’s usually limited to either one or the other.
+There are two main reasons. **The first is to improve their cash flow. The second is to pay their house off faster.**Unfortunately, it’s usually limited to either one or the other.
 
 Refinancing on behalf of cash flow is more frequent, and it’s something we see a lot with first-time home buyers who are only planning on staying in their home for five to seven years. Refinancing to pay off your house faster is a strategy we sometimes use with clients, too.
 
