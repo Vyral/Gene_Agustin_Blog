@@ -19,10 +19,10 @@ youtube_code: UGGTQG1SnPI
 
 One question we often hear from our clients is, “How can I get a competitive edge when buying in a seller’s market?” **There are a few things we generally recommend:**
 
-**1. Setting up an initial consultation with us.** Buying a home is one of the biggest investments you will make in your life. If you have someone like us who wants to advise you in the buying process, you should listen. We will teach you how to shop lenders, determine all the fees associated with the transaction, and set a realistic budget based on what you can afford.
+**1. Set up an initial consultation with us.** Buying a home is one of the biggest investments you will make in your life. If you have people like us who want to advise you in the buying process, you should listen. We will teach you how to shop lenders, determine all the fees associated with the transaction, and set a realistic budget based on what you can afford.
 
 **2. Apply for a fast-pass approval.** The fast pass-approval is a great tool to have when competing against other buyers. Once we figure out how much you qualify for, we will submit for a fully underwritten approval letter. Once we have that fast-pass approval, everything else is simple. Once you find a home, you’ll just need a preliminary title report, appraisal, signed disclosures, and a signed contract. This approval also allows you to come in with no finance contingencies, which can make your offer look more impressive to the sellers.
 
-**3. We’ll reach out to your agent.** We want to help play a proactive role in your home search. Once your buyer’s agent presents the offer, we will reach out to the listing agent of the home and brag about you some more.
+**3. Let us reach out to your agent.** We want to help play a proactive role in your home search. Once your buyer’s agent presents the offer, we will reach out to the listing agent of the home and brag about you some more.
 
 <br>Those are just three ways we can help our clients out in a seller’s market. If you’d like to learn more or want us to review your personal situation, give us a call or send us an email. We look forward to hearing from you.
