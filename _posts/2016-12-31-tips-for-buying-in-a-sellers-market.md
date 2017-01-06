@@ -5,7 +5,7 @@ tags:
   - Real Estate
   - Mortgage
 excerpt: Looking for a home to buy can be tricky in a seller’s market. We’ve got three tips to help you do just that.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Buying+in+a+seller%E2%80%99s+market.mp4'
 pullquote:
 enclosure_type:
 enclosure_time:
