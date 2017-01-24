@@ -5,7 +5,7 @@ tags:
   - Real Estate
   - Mortgage
 excerpt: "What's the truth behind the idea of 'skipping' a mortgage payment when refinancing your loan? I'll give you the facts today."
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Can+you+really+skip+a+mortgage+payment.mp4'
 pullquote: "With a mortgage payment, a lender can't collect interest unless they've actually earned it."
 enclosure_type:
 enclosure_time:
