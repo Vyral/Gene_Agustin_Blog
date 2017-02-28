@@ -11,7 +11,7 @@ enclosure_type:
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: watch?v=d-m9KjqZxzI
+youtube_code: d-m9KjqZxzI
 ---
 
 
