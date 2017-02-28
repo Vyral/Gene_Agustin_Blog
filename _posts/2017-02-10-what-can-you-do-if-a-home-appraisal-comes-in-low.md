@@ -1,17 +1,17 @@
 ---
 layout: post
-title: How the Initial Consultation Helps Both Realtors and Their Clients
+title: What Can You Do If a Home Appraisal Comes in Low?
 tags:
   - Real Estate
   - Mortgage
-excerpt: The initial consultation between a Realtor and their client is very important. Here’s how it works and what gets discussed.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+What+goes+on+in+the+initial+consultation.mp4'
-pullquote: The initial consultation gives you a better idea of the entire home buying process.
+excerpt: We get asked often what options are available if the appraisal for a home comes in low. There are actually a few things we can do to remedy that situation.
+enclosure:
+pullquote: Don’t forget you can always walk away as a final option.
 enclosure_type:
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: U0KqwH0DYCs
+youtube_code: m9KjqZxzI
 ---
 
 
