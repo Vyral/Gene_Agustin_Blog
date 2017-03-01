@@ -20,9 +20,9 @@ During our initial consultations, we often get asked by homebuyers about the opt
 
 **The first option would be to challenge the appraisal.** We’ll reach out to the listing agent and the buyer’s agent to see if they can provide us with some comparables that better support a higher value. We would then forward those to the appraiser and see if they are willing to make any adjustments. This process can take a few days.
 
-If the appraiser comes back and the value hasn’t changed, it’s time to move on to option two, **renegotiating.** At this point your buyer’s agent would reach out to the listing agent and let them know that you want to pay fair market value. Then, it’s just a matter of time to see if the listing agent can get the sellers to lower their price.
+If the appraiser comes back and the value hasn’t changed, it’s time to move on to option two, **renegotiating.** At this point, your buyer’s agent would reach out to the listing agent and let them know that you want to pay fair market value. Then, it’s just a matter of time to see if the listing agent can get the sellers to lower their price.
 
-If the seller won’t drop the price, your third option is to determine how much you want the home. If you really love and want the home, **you would need to come up with cash to make up the difference.** Your loan to value would be based on the lower appraised value and you would pay the difference between the appraised value and the purchase price in cash.
+If the seller won’t drop the price, your third option is to determine how much you want the home. If you really love and want the home, **you would need to come up with cash to make up the difference.** Your loan-to-value ratio would be based on the lower appraised value and you would pay the difference between the appraised value and the purchase price in cash.
 
 The last option is to walk away. We don’t want you paying more than your fair share, and if you don’t want to pay the difference, you can just walk away.
 
