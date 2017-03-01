@@ -4,7 +4,7 @@ title: What Can You Do If a Home Appraisal Comes in Low?
 tags:
   - Real Estate
 excerpt: We get asked often what options are available if the appraisal for a home comes in low. There are actually a few things we can do to remedy that situation.
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+What+can+you+do+if+a+home+doesn%27t+appraise.mp4'
 pullquote: Don’t forget you can always walk away as a final option.
 enclosure_type:
 enclosure_time:
