@@ -10,7 +10,7 @@ enclosure_type:
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: sWswBUQUpJ0
+youtube_code: LAAWXSZqZ0s
 ---
 
 
