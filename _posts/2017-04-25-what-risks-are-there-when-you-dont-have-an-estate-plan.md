@@ -24,6 +24,6 @@ If you can get to an attorney and make an estate plan, there are a lot of things
 
 Estate planning isn’t just about what happens if you die. It also covers you in the event of an emergency and gives you the power to decide who will make decisions for you. If you’re proactive about planning things up front, the process is much smoother and easier for your loved ones in the event of a tragedy.
 
-**The bottom line is that if you don’t have a living trust or estate plan set up already, you need to do so soon.** If you need to talk to Adam about getting one set up, give him a call at (916)917-5914.
+**The bottom line is that if you don’t have a living trust or estate plan set up already, you need to do so soon.** If you need to talk to Adam about getting one set up, give him a call at (916) 917-5914.
 
 If you have any other questions, don’t hesitate to give us a call or send us an email. We would love to hear from you.
