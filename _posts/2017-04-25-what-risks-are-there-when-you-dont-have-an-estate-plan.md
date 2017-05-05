@@ -4,7 +4,7 @@ title: What Risks Are There When You Don’t Have an Estate Plan?
 tags:
   - Real Estate
 excerpt: 'If something bad happens to you, is your family covered? If you don’t have a living trust set up, they might not be.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+If+you+don%E2%80%99t+have+an+estate+plan%2C+you+should.mp4'
 pullquote: A living trust protects your family in case of emergency or disaster.
 enclosure_type:
 enclosure_time:
