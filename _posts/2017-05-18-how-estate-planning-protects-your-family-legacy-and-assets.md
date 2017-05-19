@@ -18,7 +18,7 @@ youtube_code: OhhgtaIJ7ac
 
 Lately, I've fielded a lot of questions about how estate planning can help protect one's family, so today, I've invited Adam Shiells from Shiells and Hammer to help me explain.&nbsp;
 
-**As Adam says, "protecting your assets is protecting your family."** We don't normally think of it that way, but it really makes sense when you think of a word like your "legacy." You raise your kids and protect them so they can become productive adults, and you also acquire and protect your assets. Those two come together when you pass in hopes that the next generation can do a little bit better, and it continue on that upward path for many generations to come.&nbsp;
+**As Adam says, "protecting your assets is protecting your family."** We don't normally think of it that way, but it really makes sense when you think of a word like your "legacy." You raise your kids and protect them so they can become productive adults, and you also acquire and protect your assets. Those two come together when you pass in the hope that the next generation can do a little bit better, and it continues on that upward path for many generations to come.&nbsp;
 
 A good estate plan is part of that process by ensuring that your assets make it to your successive generations.&nbsp;
 
