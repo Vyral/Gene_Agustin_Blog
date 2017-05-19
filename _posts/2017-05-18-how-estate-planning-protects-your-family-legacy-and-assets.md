@@ -28,6 +28,6 @@ Another thing to think about is that **it's hard to know if kids will be respons
 
 All those expenses can be handled from the trust, but the kid won't be able to put their hands directly on the money until they reach an age you're comfortable with it.&nbsp;
 
-Now, these are just two examples of how estate planning can help you protect your family and your legacy. If you'd like to learn more about estate planning, you can reach Adam at 916.917.5914 or email him at ashiells@shiellsandhammer.com.
+Now, these are just two examples of how estate planning can help you protect your family and your legacy. If you'd like to learn more about estate planning, you can reach Adam at 916.917.5914 or email him at [ashiells@shiellsandhammer.com](javascript:void(location.href='mailto:'+String.fromCharCode(97,115,104,105,101,108,108,115,64,115,104,105,101,108,108,115,97,110,100,104,97,109,109,101,114,46,99,111,109))).
 
 As always, don't hesitate to give me a call or send me an email with any other questions about buying a home, selling a home, or securing financing. I'm always here to help.
