@@ -16,7 +16,7 @@ youtube_code: pUs2DtSIdBY
 ---
 
 
-{% include youtube.html %}
+[soundcloud url="https://api.soundcloud.com/tracks/327198766" params="color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false" width="100%" height="166" iframe="true" /]
 
 There’s a misconception out there that you’re not allowed to use business funds for funds to close in reserves if you’re purchasing or refinancing. There’s also a misconception among people who believe since it’s their funds and it’s a schedule C and they have full access to those funds, they should be able to use them freely.
 
