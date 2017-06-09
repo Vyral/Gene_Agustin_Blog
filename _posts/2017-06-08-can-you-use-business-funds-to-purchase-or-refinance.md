@@ -22,6 +22,6 @@ There’s a misconception out there that you’re not allowed to use business fu
 
 **From an underwriting standpoint, you are allowed to use business funds for closing.** However, the one piece of documentation you’ll need in order to use business assets for personal use on a purchase or refinance is a letter from your CPA. Your mortgage lender should be able to help you draft that letter or speak with your CPA. This letter just needs to say that your use of those business funds won’t adversely affect the ongoing viability of your business.
 
-The reason for this is that if the bulk of your income is generated from your self-employment and you deplete those assets, they want to make sure that depletion won’t render your business inoperable, and thus allow you to keep earning income to pay your mortgage going forward.
+This is because if the bulk of your income is generated from your self-employment and you deplete those assets, they want to make sure that depletion won’t render your business inoperable, and thus allow you to keep earning income to pay your mortgage going forward.
 
 If you have any questions or are looking to buy, sell, or get financing, please feel free to reach out to us. We’d love to help you.
