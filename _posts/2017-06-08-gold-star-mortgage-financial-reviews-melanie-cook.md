@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'Gold Star Mortgage Financial Reviews: Melanie Cook'
 tags:
   - Refinance
@@ -11,7 +11,7 @@ pullquote:
 enclosure_type:
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: 'https://soundcloud.com/gene-and-bernie/gene-bernie-melanie-cook'
+youtube_alternate_image:
 youtube_code:
 ---
 
