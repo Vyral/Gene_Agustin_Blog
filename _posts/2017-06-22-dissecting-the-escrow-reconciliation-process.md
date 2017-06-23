@@ -6,7 +6,7 @@ tags:
   - Purchasing
   - Real Estate
 excerpt: 'If your fixed mortgage payment has changed recently, here’s why.'
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Why+Has+Your+Monthly+Payment+Changed.mp4'
 pullquote: You’ll need a letter from your CPA before you can proceed.
 enclosure_type:
 enclosure_time:
