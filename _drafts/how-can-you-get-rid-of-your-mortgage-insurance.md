@@ -19,4 +19,4 @@ youtube_code: pp15STBiIds
 
 {% include youtube.html %}
 
-{% include pullquote.html %}
+{% You may be able to refinance, drop your mortgage insurance, and get a lower interest rate! %}
