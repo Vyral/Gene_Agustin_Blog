@@ -8,7 +8,7 @@ enclosure:
 pullquote: 'You may be able to refinance, drop your mortgage insurance, and get a lower interest rate!'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/Gene_Agustin_-_SS_6.27.jpg
 youtube_code: pp15STBiIds
 ---
