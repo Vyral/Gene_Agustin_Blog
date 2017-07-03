@@ -9,7 +9,7 @@ pullquote: 'You may be able to refinance, drop your mortgage insurance, and get 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/gene-agustin---ss-6-27.jpg
+youtube_alternate_image: /uploads/gene-agustin---yt-6-27.jpg
 youtube_code: pp15STBiIds
 ---
 
@@ -24,7 +24,7 @@ If you have a conventional loan, you can reach out to your lender and **let them
 
 When home values increase and mortgage rates go down, you also have the option to reach out to your mortgage broker and ask about refinancing. If they can cover all the closing costs for you, you’ll save that $300 to $500 and get rid of your mortgage insurance. Not only that, but refinancing can potentially lower your interest rate and your monthly payments even further.
 
-**Now, if you have an FHA mortgage, that is a bit more difficult to analyze.**Depending on when you got the FHA loan, you may be required to keep that mortgage insurance for a certain amount of time regardless of how much equity is in the property.
+**Now if you have an FHA mortgage, that is a bit more difficult to analyze.&nbsp;**Depending on when you got the FHA loan, you may be required to keep that mortgage insurance for a certain amount of time regardless of how much equity is in the property.
 
 It’s always a good idea to reach out to your mortgage company and have them check the market for you to see if there is a chance you can refinance your FHA loan into a conventional loan. Your mortgage company will also let you know if it’s best for you to stick it out and finish those mortgage insurance payments on your FHA loan.
 
