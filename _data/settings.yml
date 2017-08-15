@@ -1,9 +1,9 @@
 audit_header: false
 title: Gold Star Mortgage Financial Video Blog
 description: Your Real Estate Lending Resource for Life.
-custom_links:
-  - title:
-    url:
+custom_links: true
+  - title: Client Testimonials
+    url: /client-testimonials
 client:
   name: Gene and Bernie – Your Trusted Mortgage Experts
   license:
