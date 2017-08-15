@@ -1,7 +1,8 @@
 audit_header: false
 title: Gold Star Mortgage Financial Video Blog
 description: Your Real Estate Lending Resource for Life.
-custom_links: true
+show custom links: true
+custom_links:
   - title: Client Testimonials
     url: /client-testimonials
 client:
