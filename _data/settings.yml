@@ -5,6 +5,7 @@ show custom links: true
 custom_links:
   - title: Client Testimonials
     url: /client-testimonials
+    
 client:
   name: Gene and Bernie – Your Trusted Mortgage Experts
   license:
