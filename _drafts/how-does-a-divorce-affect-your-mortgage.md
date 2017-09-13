@@ -1,39 +1,29 @@
 ---
 layout: post
-title: How Can You Get Rid of Your Mortgage Insurance?
+title: How Does a Divorce Affect Your Mortgage?
 tags:
   - Buyer Tips
 excerpt: >-
-  How can you get rid of your mortgage insurance and reduce your monthly
-  payments? Depending on what kind of loan you have, there are a few different
-  options.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Get+rid+of+your+PMI.mp4
-pullquote: >-
-  You may be able to refinance, drop your mortgage insurance, and get a lower
-  interest rate!
+  Divorces are tough. Here’s how we help make them a little easier for our
+  clients.
+enclosure:
+pullquote: We like to walk our clients through all their options.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/gene-agustin---yt-6-27.jpg
+youtube_alternate_image: /uploads/9-13---solutions---yt-1.jpg
 youtube_code: TBP6wSOrl6U
 ---
 
 
 {% include youtube.html %}
 
-When you purchase a home for less than 20% down, you usually have to pay mortgage insurance with your monthly payment. How can you get rid of your mortgage insurance?
+Today we’re going to shed a little bit of light on the subject of divorce, and how it can impact your home and your mortgage.&nbsp;
 
-It actually depends on what kind of loan you have.
+A lot of times we see marriage settlement agreements come across that state one spouse is buying the other out and keeping the property. While that’s great for negotiating purposes, a marriage settlement agreement doesn’t relieve your legal liability to the lender if there is a mortgage on your existing property. **The only way to do that would be to refinance your property out of one spouse’s name and put it in the other’s.**&nbsp;
 
-If you have a conventional loan, you can reach out to your lender and **let them know that you have enough equity in the property to get rid of the mortgage insurance.** Depending on the company, they may charge you anywhere from $300 to $500. They will send out a new appraiser to confirm that you do have 20% equity in your home, and then they will remove your mortgage insurance payment.
-
-When home values increase and mortgage rates go down, you also have the option to reach out to your mortgage broker and ask about refinancing. If they can cover all the closing costs for you, you’ll save that $300 to $500 and get rid of your mortgage insurance. Not only that, but refinancing can potentially lower your interest rate and your monthly payments even further.
-
-**Now if you have an FHA mortgage, that is a bit more difficult to analyze.**Depending on when you got the FHA loan, you may be required to keep that mortgage insurance for a certain amount of time regardless of how much equity is in the property.
-
-It’s always a good idea to reach out to your mortgage company and have them check the market for you to see if there is a chance you can refinance your FHA loan into a conventional loan. Your mortgage company will also let you know if it’s best for you to stick it out and finish those mortgage insurance payments on your FHA loan.
-
-If you have any other questions about mortgage insurance or would like to learn more about refinancing, just give us a call or send us an email. We would be happy to help you!
+We like to walk our clients through the process step by step to make sure they are making the right decision. We walk through each scenario in our initial consultation. Should we just sell the home and divide the proceeds? Should one spouse buy the other out? **We will get all the information together and present it to you so you can make the right informed decision.**
 
 {% include pullquote.html %}
+
+If you have any questions for us or you’re going through a divorce and would like some real estate advice, give us a call or send us an email. We’re always here to help.
