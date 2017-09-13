@@ -1,19 +1,16 @@
 ---
 layout: post
-title: How Does a Divorce Affect Your Mortgage?
-category:
+title: How Can You Get Rid of Your Mortgage Insurance?
 tags:
-  - Market Update
-  - Real Estate
   - Buyer Tips
-  - Home Seller Tips
-excerpt:
-enclosure:
-pullquote:
+excerpt: 'How can you get rid of your mortgage insurance and reduce your monthly payments? Depending on what kind of loan you have, there are a few different options.'
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Get+rid+of+your+PMI.mp4'
+pullquote: 'You may be able to refinance, drop your mortgage insurance, and get a lower interest rate!'
 enclosure_type: video/mp4
 enclosure_time:
-image:
-thumbnail: /uploads/9-13---solutions---yt.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/gene-agustin---yt-6-27.jpg
+youtube_code: pp15STBiIds
 ---
 
 
