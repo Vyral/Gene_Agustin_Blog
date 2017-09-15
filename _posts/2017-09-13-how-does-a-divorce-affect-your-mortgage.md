@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Divorces are tough. Here’s how we help make them a little easier for our
   clients.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Solutions+for+real+estate+in+a+divorce.mp4
 pullquote: We like to walk our clients through all their options.
 enclosure_type: video/mp4
 enclosure_time:
