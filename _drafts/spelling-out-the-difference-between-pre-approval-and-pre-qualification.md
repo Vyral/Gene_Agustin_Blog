@@ -1,19 +1,18 @@
 ---
 layout: post
-title: How Does a Divorce Affect Your Mortgage?
+title: Spelling Out the Difference Between Pre-approval and Pre-qualification
 tags:
   - Buyer Tips
 excerpt: >-
-  Divorces are tough. Here’s how we help make them a little easier for our
-  clients.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Solutions+for+real+estate+in+a+divorce.mp4
-pullquote: We like to walk our clients through all their options.
+  Do you know the difference between pre-approval and pre-qualification? Not
+  knowing could slow down the process of buying a house.
+enclosure:
+pullquote: 'Only an underwriter can give you a pre-approval, not an automated system.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/9-13---solutions---yt-1.jpg
-youtube_code: TBP6wSOrl6U
+youtube_alternate_image: /uploads/9-27---difference---yt.jpg
+youtube_code: NkmFdWsWSnITBP6wSOrl6U
 ---
 
 
