@@ -36,7 +36,7 @@ So what that means that the clients probably have just a pre-qualification. In s
 
 **To get a full pre-approval, you’ll have to fill out a loan application,** which can be done online. Then you’ll have to submit all of your documentation to your mortgage advisor, after which your documents will be submitted to the bank, so the underwriter can verify all of the data.
 
-At Gold Star, we take that one step further.&nbsp;
+At Gold Star, we take that one step further.
 
 We have a program called Fast Pass, which means not only do we collect all the initial documents upfront, but my team will start pre-underwriting it on day one, looking at all the potential conditions that an investor or an underwriter would require. So we bundle all the documents together, send them to the underwriter, and within 48 to 72 hours, we get our Fast Pass approval.
 
@@ -52,4 +52,4 @@ If your lender is saying no, then ask why. It could be that they didn’t really
 
 If you’re serious about buying, ask questions and make sure that you’re getting formally pre-approved.
 
-If you’re looking to buy, sell, or get financing, please contact us. Have a great day!<br>&nbsp;
+If you’re looking to buy, sell, or get financing, please contact us. Have a great day!<br>
