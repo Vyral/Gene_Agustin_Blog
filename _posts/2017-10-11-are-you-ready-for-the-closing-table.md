@@ -23,14 +23,14 @@ Many buyers tend to think that the down payment is the only expense involved in 
 
 This includes both recurring and nonrecurring closing costs.
 
-Nonrecurring closing costs are one-time fees. These generally include lender fees, appraisal fees, as well as title and escrow charges.&nbsp;
+Nonrecurring closing costs are one-time fees. These generally include lender fees, appraisal fees, as well as title and escrow charges.
 
-Recurring charges are paid on a continual basis. This includes homeowners insurance, property taxes, and mortgage interest. **You want to make sure that you meet with a quality mortgage advisor who will be able to walk you through what to expect.**&nbsp;
+Recurring charges are paid on a continual basis. This includes homeowners insurance, property taxes, and mortgage interest. **You want to make sure that you meet with a quality mortgage advisor who will be able to walk you through what to expect.**
 
 The key is to remember that your funds to close will be more than just a down payment. You need to budget for nonrecurring and recurring closing costs.
 
 {% include pullquote.html %}
 
-Doing this will help you avoid any unwelcome surprises at the closing table.&nbsp;
+Doing this will help you avoid any unwelcome surprises at the closing table.
 
-If you have any other questions or would like more information, feel free to give us a call or send me an email. We look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions or would like more information, feel free to give us a call or send me an email. We look forward to hearing from you soon.<br>
