@@ -1,19 +1,18 @@
 ---
 layout: post
-title: Are You Ready for the Closing Table?
-category:
+title: Spelling Out the Difference Between Pre-Approval and Pre-Qualification
 tags:
-  - Market Update
-  - Real Estate
   - Buyer Tips
-  - Home Seller Tips
-excerpt:
+excerpt: >-
+  Do you know the difference between pre-approval and pre-qualification? Not
+  knowing could slow down the process of buying a house.
 enclosure:
-pullquote:
+pullquote: 'Only an underwriter can give you a pre-approval, not an automated system.'
 enclosure_type: video/mp4
 enclosure_time:
-image: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
-thumbnail: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
+use_youtube_image: false
+youtube_alternate_image: /uploads/9-27---difference---yt.jpg
+youtube_code: WGfRlW-sOOw
 ---
 
 <a href="https://twitter.com/home/?status={{page.pullquote}}%20{{site.url}}{{page.url}}%20via%40{{site.data.settings.socials.twitter | remove: 'https://twitter.com/'}}" target='_blank' class="pullquote">&#8220;{{page.pullquote}}&#8221;</a>
