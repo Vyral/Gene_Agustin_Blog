@@ -7,7 +7,8 @@ excerpt: >-
   Many buyers make the mistake of forgetting to budget for other closing costs
   on top of their down payment. To avoid any surprises at the closing table,
   here’s what you need to know.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Are+you+truly+prepared+to+close.mp4
 pullquote: Remember that your funds to close will be more than just a down payment.
 enclosure_type: video/mp4
 enclosure_time:
