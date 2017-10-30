@@ -1,37 +1,37 @@
 ---
 layout: post
-title: Are You Ready for the Closing Table?
+title: How Divorce Can Impact Your Buying Power
 tags:
   - Buyer Tips
 excerpt: >-
-  Many buyers make the mistake of forgetting to budget for other closing costs
-  on top of their down payment. To avoid any surprises at the closing table,
-  here’s what you need to know.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Are+you+truly+prepared+to+close.mp4
-pullquote: Remember that your funds to close will be more than just a down payment.
+  How does divorce affect you as a buyer if you are paying out or receiving
+  child support and alimony? There are actually a few factors to keep in mind.
+enclosure:
+pullquote: >-
+  From an underwriting standpoint, lenders will want to see that a divorce is
+  finalized.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/10-11---prepared---yt.jpg
-youtube_code: cLyDcIKHJqU
+youtube_alternate_image: /uploads/10-25---looking---yt.jpg
+youtube_code: HW3kxaagkMs
 ---
 
 
 {% include youtube.html %}
 
-Many buyers tend to think that the down payment is the only expense involved in closing. However, this is not the case. **There are actually a few different costs you should be prepared for before you reach the closing table.**
+Today, we want to dive into how divorce affects you as a buyer, especially when you are receiving alimony and child support or are having to pay it out.
 
-This includes both recurring and nonrecurring closing costs.
-
-Nonrecurring closing costs are one-time fees. These generally include lender fees, appraisal fees, as well as title and escrow charges.
-
-Recurring charges are paid on a continual basis. This includes homeowners insurance, property taxes, and mortgage interest. **You want to make sure that you meet with a quality mortgage advisor who will be able to walk you through what to expect.**
-
-The key is to remember that your funds to close will be more than just a down payment. You need to budget for nonrecurring and recurring closing costs.
+From an underwriting standpoint, lenders will want to see that a divorce is finalized. The reason for this is that the marriage settlement typically isn’t fully available until this point.
 
 {% include pullquote.html %}
 
-Doing this will help you avoid any unwelcome surprises at the closing table.
+Depending on if you are using government financing or if you are using conventional financing, you could have to wait three to six months before you can use this income to help you qualify.
 
-If you have any other questions or would like more information, feel free to give us a call or send me an email. We look forward to hearing from you soon.<br>
+But, this time restriction only qualifies if you are on the receiving end. **If you are paying out, there is no time restriction as long as a fully-executed marriage settlement agreement is in place** and filed with the courts.
+
+If a person is paying child support or alimony, these monthly payments will be counted against them as a liability and could impact buying power.
+
+On top of talking to your divorce attorney, you need to **connect with your mortgage advisor if you are in this situation.**
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
