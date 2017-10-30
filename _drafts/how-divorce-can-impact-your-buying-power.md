@@ -1,19 +1,37 @@
 ---
 layout: post
-title: How Divorce Can Impact Your Buying Power
-category:
+title: Are You Ready for the Closing Table?
 tags:
-  - Market Update
-  - Real Estate
   - Buyer Tips
-  - Home Seller Tips
-excerpt:
-enclosure:
-pullquote:
+excerpt: >-
+  Many buyers make the mistake of forgetting to budget for other closing costs
+  on top of their down payment. To avoid any surprises at the closing table,
+  here’s what you need to know.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Are+you+truly+prepared+to+close.mp4
+pullquote: Remember that your funds to close will be more than just a down payment.
 enclosure_type: video/mp4
 enclosure_time:
-image: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
-thumbnail: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
+use_youtube_image: false
+youtube_alternate_image: /uploads/10-11---prepared---yt.jpg
+youtube_code: cLyDcIKHJqU
 ---
 
-<a href="https://twitter.com/home/?status={{page.pullquote}}%20{{site.url}}{{page.url}}%20via%40{{site.data.settings.socials.twitter | remove: 'https://twitter.com/'}}" target='_blank' class="pullquote">&#8220;{{page.pullquote}}&#8221;</a>
+
+{% include youtube.html %}
+
+Many buyers tend to think that the down payment is the only expense involved in closing. However, this is not the case. **There are actually a few different costs you should be prepared for before you reach the closing table.**
+
+This includes both recurring and nonrecurring closing costs.
+
+Nonrecurring closing costs are one-time fees. These generally include lender fees, appraisal fees, as well as title and escrow charges.
+
+Recurring charges are paid on a continual basis. This includes homeowners insurance, property taxes, and mortgage interest. **You want to make sure that you meet with a quality mortgage advisor who will be able to walk you through what to expect.**
+
+The key is to remember that your funds to close will be more than just a down payment. You need to budget for nonrecurring and recurring closing costs.
+
+{% include pullquote.html %}
+
+Doing this will help you avoid any unwelcome surprises at the closing table.
+
+If you have any other questions or would like more information, feel free to give us a call or send me an email. We look forward to hearing from you soon.<br>
