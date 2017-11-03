@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   How does divorce affect you as a buyer if you are paying out or receiving
   child support and alimony? There are actually a few factors to keep in mind.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Looking+for+a+home+after+a+divorce.mp4
 pullquote: >-
   From an underwriting standpoint, lenders will want to see that a divorce is
   finalized.
