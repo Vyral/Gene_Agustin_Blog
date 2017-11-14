@@ -35,6 +35,6 @@ When obtaining a mortgage, there are certain do’s and don’ts you need to fol
 
 {% include pullquote.html %}
 
-Basically, your mortgage is like a puzzle. Your advisor has already put the pieces together, but if you start changing those pieces, the outcome will be completely different. If you’d like more information, **we have a full list of mortgage do’s and don’ts that you can download in PDF form [here](__notset__)**[.](__notset__)
+Basically, your mortgage is like a puzzle. Your advisor has already put the pieces together, but if you start changing those pieces, the outcome will be completely different. If you’d like more information, **we have a full list of mortgage do’s and don’ts that you can download in PDF form [here](https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/A+-+Do's+%26+Dont's+-+11.2.2017.pdf)**[.](__notset__)
 
 If you have any more questions about this topic or you’re looking to buy, sell, or get financing for a home, don’t hesitate to reach out to us. We’d be happy to help you.<br>
