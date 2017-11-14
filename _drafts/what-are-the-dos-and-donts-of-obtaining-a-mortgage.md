@@ -1,38 +1,40 @@
 ---
 layout: post
-title: How Divorce Can Impact Your Buying Power
+title: What Are the Do’s and Don’ts of Obtaining a Mortgage?
 tags:
-  - Buyer Tips
+  - Expert Advice
 excerpt: >-
-  How does divorce affect you as a buyer if you are paying out or receiving
-  child support and alimony? There are actually a few factors to keep in mind.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Looking+for+a+home+after+a+divorce.mp4
-pullquote: >-
-  From an underwriting standpoint, lenders will want to see that a divorce is
-  finalized.
+  To help make obtaining your mortgage easier, here are a few important do’s and
+  don’ts you can follow.
+enclosure:
+pullquote: Your mortgage is like a puzzle.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/10-25---looking---yt.jpg
-youtube_code: I78WRWzhIFM
+youtube_alternate_image: /uploads/11-13---mortgage---yt.jpg
+youtube_code: PQDbOxZGmVI
 ---
 
 
 {% include youtube.html %}
 
-Today, we want to dive into how divorce affects you as a buyer, especially when you are receiving alimony and child support or are having to pay it out.
+When obtaining a mortgage, there are certain do’s and don’ts you need to follow to ensure that everything goes smoothly.&nbsp;
 
-From an underwriting standpoint, lenders will want to see that a divorce is finalized. The reason for this is that the marriage settlement typically isn’t fully available until this point.
+**Do:**
+
+* Continue to work and make sure you have access to all of your pay stubs and bank statements.&nbsp;
+* Keep up-to-date documentation in case your mortgage advisor coordinator requests that kind of information.&nbsp;
+* Stay well within your budget. If you have your approval up to $450,000 in a seller’s market, make sure you’re looking at homes in the $430,000 to $440,000 price range so you give your agent some wiggle room to negotiate upward.&nbsp;
+
+**Don’t:**
+
+* Be late on your mortgage payments.&nbsp;
+* Spend your down payment money. When you’re trying to qualify for a home, the lender is qualifying you based on a snapshot of the financial picture they see. If there’s a change in the amount of cash you have because you spent some of your down payment, that can negatively affect your approval.&nbsp;
+* Move money back and forth between accounts or make large cash deposits without first checking with your lender. This won’t blow up your loan transaction, but it will add to the amount of paperwork you have to do.&nbsp;
+* Open any new accounts or buy any new appliances on finance until your loan is completely done. Taking on any new debt is another thing that could have a negative impact on your pre-approval.
 
 {% include pullquote.html %}
 
-Depending on if you are using government financing or if you are using conventional financing, you could have to wait three to six months before you can use this income to help you qualify.
+Basically, your mortgage is like a puzzle. Your advisor has already put the pieces together, but if you start changing those pieces, the outcome will be completely different. If you’d like more information, **we have a full list of mortgage do’s and don’ts that you can download in PDF form [here](__notset__)**[.](__notset__)
 
-But, this time restriction only qualifies if you are on the receiving end. **If you are paying out, there is no time restriction as long as a fully-executed marriage settlement agreement is in place** and filed with the courts.
-
-If a person is paying child support or alimony, these monthly payments will be counted against them as a liability and could impact buying power.
-
-On top of talking to your divorce attorney, you need to **connect with your mortgage advisor if you are in this situation.**
-
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+If you have any more questions about this topic or you’re looking to buy, sell, or get financing for a home, don’t hesitate to reach out to us. We’d be happy to help you.<br>&nbsp;
