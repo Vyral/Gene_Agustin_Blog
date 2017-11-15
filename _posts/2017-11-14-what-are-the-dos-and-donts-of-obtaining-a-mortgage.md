@@ -23,19 +23,14 @@ When obtaining a mortgage, there are certain do’s and don’ts you need to fol
 **Do:**
 
 * Continue to work and make sure you have access to all of your pay stubs and bank statements.
-
 * Keep up-to-date documentation in case your mortgage advisor coordinator requests that kind of information.
-
 * Stay well within your budget. If you have your approval up to $450,000 in a seller’s market, make sure you’re looking at homes in the $430,000 to $440,000 price range so you give your agent some wiggle room to negotiate upward.
 
 **Don’t:**
 
 * Be late on your mortgage payments.
-
 * Spend your down payment money. When you’re trying to qualify for a home, the lender is qualifying you based on a snapshot of the financial picture they see. If there’s a change in the amount of cash you have because you spent some of your down payment, that can negatively affect your approval.
-
 * Move money back and forth between accounts or make large cash deposits without first checking with your lender. This won’t blow up your loan transaction, but it will add to the amount of paperwork you have to do.
-
 * Open any new accounts or buy any new appliances on finance until your loan is completely done. Taking on any new debt is another thing that could have a negative impact on your pre-approval.
 
 {% include pullquote.html %}
