@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   To help make obtaining your mortgage easier, here are a few important do’s and
   don’ts you can follow.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Mortgage+do%E2%80%99s+and+don%E2%80%99ts.mp4
 pullquote: Your mortgage is like a puzzle.
 enclosure_type: video/mp4
 enclosure_time:
