@@ -20,7 +20,7 @@ youtube_code: iECEa7EZvJg
 
 {% include youtube.html %}
 
-Today, we’re talking about the subject of financial gifts. We’ll go over when and how they can be applied toward your home purchase.
+*Today, we’re talking about the subject of financial gifts. We’ll go over when and how they can be applied toward your home purchase.*
 
 How can gift funds be used toward the purchase of your home? Well, especially when someone is buying their first home, it’s common for them to receive financial assistance from a close friend or family member.
 
@@ -34,4 +34,4 @@ Now, **if you’re doing government financing like an FHA or VA loan, the requir
 
 If the relationship can be documented, they will still need a gift letter and the ability to give the gift. Usually this proof comes in the form of their most recent bank statement. If the gift funds are wired directly to the title company, this is all the documentation you’ll need. However, if the gift comes in the form of the check, further documentation will be required.
 
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
