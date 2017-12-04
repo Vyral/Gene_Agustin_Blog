@@ -1,41 +1,37 @@
 ---
 layout: post
-title: What Are the Do’s and Don’ts of Obtaining a Mortgage?
+title: Can Someone Gift You the Funds to Purchase a Home?
 tags:
-  - Expert Advice
+  - Purchasing
 excerpt: >-
-  To help make obtaining your mortgage easier, here are a few important do’s and
-  don’ts you can follow.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Mortgage+do%E2%80%99s+and+don%E2%80%99ts.mp4
-pullquote: Your mortgage is like a puzzle.
+  Today, we’re talking about the subject of financial gifts. We’ll go over when
+  and how they can be applied toward your home purchase.
+enclosure:
+pullquote: >-
+  The use of financial gifts from family toward the purchase of a home is common
+  for many first-time buyers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/11-13---mortgage---yt.jpg
-youtube_code: PQDbOxZGmVI
+youtube_alternate_image: /uploads/11-27---yt-3.jpg
+youtube_code: iECEa7EZvJg
 ---
 
 
 {% include youtube.html %}
 
-When obtaining a mortgage, there are certain do’s and don’ts you need to follow to ensure that everything goes smoothly.
+Today, we’re talking about the subject of financial gifts. We’ll go over when and how they can be applied toward your home purchase.
 
-**Do:**
+How can gift funds be used toward the purchase of your home? Well, especially when someone is buying their first home, it’s common for them to receive financial assistance from a close friend or family member.&nbsp;
 
-* Continue to work and make sure you have access to all of your pay stubs and bank statements.
-* Keep up-to-date documentation in case your mortgage advisor coordinator requests that kind of information.
-* Stay well within your budget. If you have your approval up to $450,000 in a seller’s market, make sure you’re looking at homes in the $430,000 to $440,000 price range so you give your agent some wiggle room to negotiate upward.
+**Depending on the type of loan program you’re using, the requirements for gift fund documentation will vary.** Any conventional financing will require you to provide a gift letter and proof that the funds have been delivered to the title company.
 
-**Don’t:**
-
-* Be late on your mortgage payments.
-* Spend your down payment money. When you’re trying to qualify for a home, the lender is qualifying you based on a snapshot of the financial picture they see. If there’s a change in the amount of cash you have because you spent some of your down payment, that can negatively affect your approval.
-* Move money back and forth between accounts or make large cash deposits without first checking with your lender. This won’t blow up your loan transaction, but it will add to the amount of paperwork you have to do.
-* Open any new accounts or buy any new appliances on finance until your loan is completely done. Taking on any new debt is another thing that could have a negative impact on your pre-approval.
+Our team has a standard gift letter form that we can send out to you. Once the person donating the financial gift to you has signed this letter, they can simply wire their funds a day or two before closing. The one stipulation of gift funds used toward a conventional loan is that the gift must come from a family member.
 
 {% include pullquote.html %}
 
-Basically, your mortgage is like a puzzle. Your advisor has already put the pieces together, but if you start changing those pieces, the outcome will be completely different. If you’d like more information, **we have a full list of mortgage do’s and don’ts that you can download in PDF form *[here](https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/A+-+Do's+%26+Dont's+-+11.2.2017.pdf)***.
+Now, **if you’re doing government financing like an FHA or VA loan, the requirements are a little more document-heavy.** A gift can come from a family member or a friend with a closely-documented interest in you, the buyer.
 
-If you have any more questions about this topic or you’re looking to buy, sell, or get financing for a home, don’t hesitate to reach out to us. We’d be happy to help you.
+If the relationship can be documented, they will still need a gift letter and the ability to give the gift. Usually this proof comes in the form of their most recent bank statement. If the gift funds are wired directly to the title company, this is all the documentation you’ll need. However, if the gift comes in the form of the check, further documentation will be required.&nbsp;
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
