@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Today, we’re talking about the subject of financial gifts. We’ll go over when
   and how they can be applied toward your home purchase.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Can+you+use+gifted+funds+toward+a+new+home.mp4
 pullquote: >-
   The use of financial gifts from family toward the purchase of a home is common
   for many first-time buyers.
