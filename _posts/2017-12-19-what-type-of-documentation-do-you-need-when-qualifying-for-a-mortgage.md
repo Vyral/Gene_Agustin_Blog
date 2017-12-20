@@ -31,7 +31,7 @@ All we’d need in this case is a pay stub from your first two weeks of employme
 
 {% include pullquote.html %}
 
-Another instance where we typically see this perceived lack-of-documentation issue come into play is with school teachers. Oftentimes, teachers move from one district to another at the end of the school year. This means if they’re trying to buy a house in July but the school year doesn’t start until August, technically they’re not employed
+Another instance where we typically see this perceived lack-of-documentation issue come into play is with school teachers. Oftentimes, teachers move from one district to another at the end of the school year. This means if they’re trying to buy a house in July but the school year doesn’t start until August, technically they’re not employed.
 
 In this case, **we can use the teacher’s offer letter or signed contract with the new school to close the loan.** Once the school year starts, we can then collect your pay stubs.
 
