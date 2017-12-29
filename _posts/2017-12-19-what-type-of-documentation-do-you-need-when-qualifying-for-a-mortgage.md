@@ -7,7 +7,8 @@ excerpt: >-
   There are different proofs of income we can use to qualify you for a mortgage
   if your job or situation doesn’t allow you to prove a documented employment
   history of at least two years.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Different+income+types+that+will+qualify+you.mp4
 pullquote: >-
   The single biggest factor lenders look for is an employment history of at
   least two years.
