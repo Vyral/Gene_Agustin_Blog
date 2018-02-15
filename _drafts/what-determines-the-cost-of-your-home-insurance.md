@@ -20,7 +20,9 @@ youtube_code: r5X_tatlO4IP6CWV-qPLn0
 
 {% include youtube.html %}
 
-<center>What key factors determine the cost of your home insurance policy, and is there anything you can do to lower it? Mike Riley from Farmers Insurance explains today.</center>
+<center><em>What key factors determine the cost of your home insurance policy, and is there anything you can do to lower it? Mike Riley from Farmers Insurance explains today.</em></center>
+
+<center>&nbsp;</center>
 
 Today, Mike Riley from Farmers Insurance is here to answer a few important questions.&nbsp;
 
