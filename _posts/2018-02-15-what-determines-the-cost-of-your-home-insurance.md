@@ -5,7 +5,7 @@ tags:
   - Expert Advice
 excerpt: >-
   What key factors determine the cost of your home insurance policy, and is
-  there anything you can do to lower it? Mike Riley from Farmers Insurance
+  there anything you can do to lower it? Mike Reilly from Farmers Insurance
   explains today.
 enclosure:
 pullquote: >-
@@ -20,11 +20,11 @@ youtube_code: r5X_tatlO4I
 
 {% include youtube.html %}
 
-<center><em>What key factors determine the cost of your home insurance policy, and is there anything you can do to lower it? Mike Riley from Farmers Insurance explains today.</em></center>
+<center><em>What key factors determine the cost of your home insurance policy, and is there anything you can do to lower it? Mike Reilly from Farmers Insurance explains today.</em></center>
 
 <center>&nbsp;</center>
 
-Today, Mike Riley from Farmers Insurance is here to answer a few important questions.
+Today, Mike Reilly from Farmers Insurance is here to answer a few important questions.
 
 When we do an initial consultation with our clients, I like to go over the key factors that drive the interest rate you will get, such as your credit score and down payment. There are similar things on the insurance side that can cause a change in your price policy.
 
@@ -40,4 +40,4 @@ One of the most common things you can do is **bundle your policies.** If an insu
 
 You can also look at the amount of coinsurance. The higher the deductible is, the lower the premium will be. However, Mike says that you have to be comfortable with the amount of money you might have to come up with out of pocket should there be a total loss.
 
-If you have any other questions for Mike, you can reach him. As always, if you have any questions for us, just give us a call or send us an email. We would be happy to help you!<br>
+If you have any other questions for Mike, you can reach him at (916) 520-6786. As always, if you have any questions for us, just give us a call or send us an email. We would be happy to help you!
