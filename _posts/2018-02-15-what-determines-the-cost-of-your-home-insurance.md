@@ -30,7 +30,7 @@ When we do an initial consultation with our clients, I like to go over the key f
 
 Mike says that one of them is **the size of your home.** Your home insurance policy is really insuring the value to rebuild your home should there be a total loss for some reason. So, if your home burns down, what will it cost to build up again? Your insurance company will look at things like the square footage of the home and the complexity of the construction as well.
 
-**Another key factor is the fireline score.** That can come into play in our are because of the nice foothills and such. The more rural the area and the farther away from the fire department you are, the higher the risk for a fire is, and that could drive up the premium.
+**Another key factor is the fireline score.** That can come into play in our area because of the nice foothills and such. The more rural the area and the farther away from the fire department you are, the higher the risk for a fire is, and that could drive up the premium.
 
 {% include pullquote.html %}
 
