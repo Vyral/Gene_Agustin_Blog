@@ -7,7 +7,8 @@ excerpt: >-
   What key factors determine the cost of your home insurance policy, and is
   there anything you can do to lower it? Mike Reilly from Farmers Insurance
   explains today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+What+determines+the+cost+of+home+insurance.mp4
 pullquote: >-
   The farther your property is from a fire department, the higher the risk of
   fire is.
