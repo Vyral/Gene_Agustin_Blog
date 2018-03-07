@@ -4,11 +4,13 @@ title: Answering a Question About Your Homeowners Policy Coverage
 tags:
   - Expert Advice
 excerpt: >-
-  Today, Mike Reilly from Farmers Insurance is here to ask a common question we hear in the mortgage business.
+  Today, Mike Reilly from Farmers Insurance is here to ask a common question we
+  hear in the mortgage business.
 enclosure: >-
-  
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+A+question+about+homeowners+policy+coverage.mp4
 pullquote: >-
-  The home’s value and the materials needed to build it are two different stories.
+  The home’s value and the materials needed to build it are two different
+  stories.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
