@@ -2,13 +2,10 @@
 layout: post
 title: Thank You For Supporting Us
 tags:
-  - 
-excerpt: >-
-  Today, we’ll be giving you a year-end review of 2017. It was a great year.
-enclosure: >-
-  
-pullquote: >-
-  2017 was a blast!
+  - Thank You
+excerpt: 'Today, we’ll be giving you a year-end review of 2017. It was a great year.'
+enclosure:
+pullquote: 2017 was a blast!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
