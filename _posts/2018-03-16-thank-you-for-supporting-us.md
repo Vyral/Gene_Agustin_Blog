@@ -15,7 +15,7 @@ youtube_code: RhG-Bg4bcmA
 
 {% include youtube.html %}
 
-<center><em>Today, we’ll be giving you a year-end review of 2017. It was a great year.</em></center>
+<center><em>Today, we&rsquo;ll be giving you a year-end review of 2017. It was a great year.</em></center>
 
 <center>&nbsp;</center>
 
@@ -29,4 +29,6 @@ Gene took a trip to New York with his wife. He kicked and screamed before headin
 
 2017 was a blast! We made it to the top 10 at the President’s club; I was shocked we made it that far, but we couldn’t have done it without all of you. **Thank you for supporting us! It is an honor to serve you.**
 
-Best of luck to you all in 2018!
+Best of luck to you all in 2018!&nbsp;
+
+As always, if you have any questions or real estate needs, don't hesitate to reach out to us. We'd be glad to help you.
