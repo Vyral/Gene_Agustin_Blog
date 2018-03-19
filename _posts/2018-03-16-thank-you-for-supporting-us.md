@@ -27,7 +27,7 @@ Bernie did have a recurrence of her thyroid cancer last year, so she was out all
 
 Gene took a trip to New York with his wife. He kicked and screamed before heading out there because he said he wanted nothing to do with the place. After the trip, he realized that he actually loved New York and would definitely go back. He also made a trip to Jamaica and the Dominican Republic.
 
-2017 was a blast! We made it to the top 10 at the President’s club; I was shocked we made it that far, but we couldn’t have done it without all of you. **Thank you for supporting us! It is an honor to serve you.**
+2017 was a blast! We made it to the top 10 at the President’s Club; I was shocked we made it that far, but we couldn’t have done it without all of you. **Thank you for supporting us! It is an honor to serve you.**
 
 Best of luck to you all in 2018!&nbsp;
 
