@@ -16,7 +16,9 @@ youtube_code: 39Za8_r1ME0
 
 {% include youtube.html %}
 
-<center>What is the difference between coverage for a primary residence and a rental property? Mike Reilly from Farmers Insurance is here to fill you in.</center>
+<center><em>What is the difference between coverage for a primary residence and a rental property? Mike Reilly from Farmers Insurance is here to fill you in.</em></center>
+
+<center>&nbsp;</center>
 
 I’m back with Mike Reilly from Farmers Insurance to talk about the difference between getting coverage for your primary residence versus rental properties.
 
