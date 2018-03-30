@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Thank You For Supporting Us
+title: Coverage for Primary Residences vs. Rentals
 tags:
-  - Thank You
-excerpt: 'Today, we’ll be giving you a year-end review of 2017. It was a great year.'
+  - 
+excerpt: 'What is the difference between coverage for a primary residence and a rental property? Mike Reilly from Farmers Insurance is here to fill you in.'
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+2017+was+a+great+year.mp4
-pullquote: 2017 was a blast!
+  
+pullquote: In California, you don’t need to be a millionaire to get sued like one.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: RhG-Bg4bcmA
+youtube_code: 39Za8_r1ME0
 ---
