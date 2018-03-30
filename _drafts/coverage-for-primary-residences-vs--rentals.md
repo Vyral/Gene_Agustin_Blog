@@ -1,19 +1,15 @@
 ---
 layout: post
-title: Coverage for Primary Residences vs. Rentals
-category:
+title: Thank You For Supporting Us
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
-excerpt:
-enclosure:
-pullquote:
+  - Thank You
+excerpt: 'Today, we’ll be giving you a year-end review of 2017. It was a great year.'
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+2017+was+a+great+year.mp4
+pullquote: 2017 was a blast!
 enclosure_type: video/mp4
 enclosure_time:
-image: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
-thumbnail: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: RhG-Bg4bcmA
 ---
-
-<a href="https://twitter.com/home/?status={{page.pullquote}}%20{{site.url}}{{page.url}}%20via%40{{site.data.settings.socials.twitter | remove: 'https://twitter.com/'}}" target='_blank' class="pullquote">&#8220;{{page.pullquote}}&#8221;</a>
