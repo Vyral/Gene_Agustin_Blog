@@ -2,11 +2,12 @@
 layout: post
 title: Coverage for Primary Residences vs. Rentals
 tags:
-  - 
-excerpt: 'What is the difference between coverage for a primary residence and a rental property? Mike Reilly from Farmers Insurance is here to fill you in.'
+excerpt: >-
+  What is the difference between coverage for a primary residence and a rental
+  property? Mike Reilly from Farmers Insurance is here to fill you in.
 enclosure: >-
-  
-pullquote: In California, you don’t need to be a millionaire to get sued like one.
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+Coverage+for+primary+residences+vs.+rentals.mp4
+pullquote: 'In California, you don’t need to be a millionaire to get sued like one.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
