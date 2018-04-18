@@ -3,10 +3,13 @@ layout: post
 title: What’s the Key to Finding the Right Insurance Coverage for Your Home?
 tags:
 excerpt: >-
-  If you’re a first-time homebuyer, the best thing you can do to find the right insurance for your home is talk to a licensed insurance professional.
+  If you’re a first-time homebuyer, the best thing you can do to find the right
+  insurance for your home is talk to a licensed insurance professional.
 enclosure: >-
- 
-pullquote: 'You buy insurance for the things that ruin your life—not the things that ruin your day.'
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial+How+to+find+the+best+homeowners+insurance.mp4
+pullquote: >-
+  You buy insurance for the things that ruin your life—not the things that ruin
+  your day.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
