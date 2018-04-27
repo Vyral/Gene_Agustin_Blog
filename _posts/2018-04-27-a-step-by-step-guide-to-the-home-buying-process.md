@@ -31,7 +31,7 @@ Then, she sends them to a lender such as us to get pre-approved. This helps you 
 
 Next, she’ll email the buyer a list of homes on the MLS to further narrow their search criteria. She’ll also ask other Realtors and brokers if they have any pocket listings outside the MLS that the buyer might be interested in. Anytime a new home pops up on the market that fits their criteria, they’re the first to be notified. This further helps her understand what you’re looking for before you actually go out and start visiting these homes.
 
-**Once you find a home you like, it’s time to submit an offer for it.** Jenna and her clients decide what price to offer based on other comparable homes in the area. Other factors go into this decision as well, including how long the home has been on the market, what kind of area it’s in, the inspection time frame, etc.
+**Once you find a home you like, it’s time to submit an offer for it.** Jenna and her clients decide what price to offer based on other comparable homes in the area. Other factors go into this decision as well, including how long the home has been on the market, what kind of area it’s in, the inspection time frame, etc..
 
 You’ll also need a loan approval and an earnest money deposit when submitting an offer. An earnest money deposit is typically between 1% and 2% of the offered purchase price. This deposit is put into an escrow account. The earnest money deposit is an act of good faith from the buyer that shows they’re committed to moving forward with the purchase.
 
