@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   What does the home buying process look like? I’ve brought in one of our
   Realtor partners to explain it from start to finish.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/Gold+Star+Mortgage+Financial-+What+does+the+home+purchasing+process+look+like%253F.mp4
 pullquote: >-
   It’s important to get a good idea of your budget and your shopping price when
   buying a home.
