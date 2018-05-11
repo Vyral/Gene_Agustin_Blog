@@ -24,7 +24,9 @@ youtube_code: h9SjxRCpbGk
 
 {% include youtube.html %}
 
-Competition is hot among buyers in today’s market. Today we’d like to share a few tips on how to beat out other buyers by making a strong, stand-out offer.
+<center><em>Competition is hot among buyers in today’s market. Today we’d like to share a few tips on how to beat out other buyers by making a strong, stand-out offer.</em></center>
+
+<p style="text-align: center;">&nbsp;</p>
 
 Today we’re continuing our Ask a Realtor series with a look at the question, “What should buyers do to make their offers more attractive?”
 
