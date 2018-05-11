@@ -38,7 +38,7 @@ And, according to Jenna, one of the key elements to beating out the competition 
 
 **The goal in a multiple offer situation is to stand out.** If a listing truly resonates with you as a buyer, Jenna recommends expressing this explicitly to the seller in the form of a letter. Attaching this personal touch to your offer can go a long way in setting yourself apart from the competition.&nbsp;
 
-{% include pullquote%}
+{% include pullquote.html %}
 
 For some sellers, it isn’t about the price. Many sellers want to know that the buyer of their property will love the home as much as they have. On top of that, sellers want to know that they can expect a smooth transaction. This is why, if you are able, i**t’s a good idea to present an offer with as few contingencies and as short a closing period as possible****.&nbsp;**
 
