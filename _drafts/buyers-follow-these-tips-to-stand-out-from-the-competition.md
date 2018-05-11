@@ -17,10 +17,8 @@ pullquote: >-
   strong agent working on your behalf.
 enclosure_type: video/mp4
 enclosure_time:
-youtube_code: >
-h9SjxRCpbGk
-image: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
-thumbnail: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
+image: 
+thumbnail: 
 ---
 
 {% include youtube.html %}
