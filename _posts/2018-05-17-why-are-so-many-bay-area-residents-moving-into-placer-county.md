@@ -22,11 +22,11 @@ youtube_code: v3QYzC5IiIM
 
 {% include youtube.html %}
 
-<center><em>In our latest installment of “Ask a Realtor,” Desiree Pointer and Nichole Moody talk about why we’re seeing so many Bay Area residents move into Placer County.</em></center>
+<center><em>In our latest installment of &ldquo;Ask a Realtor,&rdquo; Desiree Pointer and Nichole Moody talk about why we&rsquo;re seeing so many Bay Area residents move into Placer County.</em></center>
 
 <center>&nbsp;</center>
 
-What’s behind this current trend? In this edition of “Ask a Realtor,” we’ve brought in Desiree Pointer and Nichole Moody of Realty ONE Group Complete to answer that question.
+What is behind the current purchasing trend in Placer County? In this edition of “Ask a Realtor,” we’ve brought in Desiree Pointer and Nichole Moody of Realty ONE Group Complete to answer that question.
 
 According to Desiree, this trend is happening because **Placer County has a lot to offer Bay Area residents.** They can afford more for their money, the schools are great, there’s a high quality of medical care, etc. There are also different types of neighborhoods to choose from, whether that means more adult-oriented or family friendly.
 
