@@ -43,8 +43,8 @@ We typically see the most activity in our market during the months of May, June,
 
 If you have any more market questions for Desiree or Nichole or you need help buying or selling a home in our area, here is their contact information:
 
-Desire: (916) 259-3377 or [greatlincolnhome@gmail.com](mailto:greatlincolnhome@gmail.com)
+Desire: [(916) 259-3377](tel:9162593377) or [greatlincolnhome@gmail.com](mailto:greatlincolnhome@gmail.com)
 
-Nichole: (916) 524-7804 or [nichole@agentmoody.com](mailto:nichole@agentmoody.com)
+Nichole: [(916) 524-7804](tel:9165247804) or [nichole@agentmoody.com](mailto:nichole@agentmoody.com)
 
 As always, if you have any questions for us or you’re looking to get financing, don’t hesitate to shoot us an email or give us a call. We’d be glad to help you.
