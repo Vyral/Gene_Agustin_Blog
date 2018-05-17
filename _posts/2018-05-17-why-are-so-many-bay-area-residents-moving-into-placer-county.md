@@ -4,9 +4,6 @@ title: Why Are So Many Bay Area Residents Moving Into Placer County?
 category:
 tags:
   - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt: >-
   In our latest installment of “Ask a Realtor,” Desiree Pointer and Nichole
   Moody talk about why we’re seeing so many Bay Area residents move into Placer
