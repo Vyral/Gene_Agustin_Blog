@@ -12,8 +12,9 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-image: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
-thumbnail: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code:
 ---
 
 {% include youtube.html %}
