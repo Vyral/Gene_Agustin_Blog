@@ -16,4 +16,4 @@ youtube_code:
 
 {% include youtube.html %}
 
-{ include pullquote.html %}
+{% include pullquote.html %}
