@@ -22,7 +22,7 @@ youtube_code: v3QYzC5IiIM
 
 {% include youtube.html %}
 
-<center><em>In our latest installment of “Ask a Realtor,” Desiree Pointer and Nichole Moody talk about why we’re seeing so many Bay Area residents move into Placer County.</center></em>
+<center><em>In our latest installment of “Ask a Realtor,” Desiree Pointer and Nichole Moody talk about why we’re seeing so many Bay Area residents move into Placer County.</em></center>
 
 <center>&nbsp;</center>
 
