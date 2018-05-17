@@ -22,7 +22,7 @@ youtube_code: v3QYzC5IiIM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>In our latest installment of &ldquo;Ask a Realtor,&rdquo; Desiree Pointer and Nichole Moody talk about why we&rsquo;re seeing so many Bay Area residents move into Placer County.</em></p>
+*In our latest installment of “Ask a Realtor,” Desiree Pointer and Nichole Moody talk about why we’re seeing so many Bay Area residents move into Placer County.*
 
 <center>&nbsp;</center>
 
@@ -40,7 +40,7 @@ We typically see the most activity in our market during the months of May, June,
 
 If you have any more market questions for Desiree or Nichole or you need help buying or selling a home in our area, here is their contact information:
 
-Desire: [(916) 259-3377](tel:9162593377) or [greatlincolnhome@gmail.com](mailto:greatlincolnhome@gmail.com)
+Desiree: [(916) 259-3377](tel:9162593377) or [greatlincolnhome@gmail.com](mailto:greatlincolnhome@gmail.com)
 
 Nichole: [(916) 524-7804](tel:9165247804) or [nichole@agentmoody.com](mailto:nichole@agentmoody.com)
 
