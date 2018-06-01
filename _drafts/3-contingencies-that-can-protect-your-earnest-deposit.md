@@ -22,7 +22,9 @@ youtube_code: c_upuGQExb0
 
 {% include youtube.html %}
 
-How can contingencies protect a buyer’s earnest deposit? Today we’ll be addressing this question in the latest installment of our “Ask a Realtor” series.
+<p style="textalign: center;"><em>How can contingencies protect a buyer’s earnest deposit? Today we’ll be addressing this question in the latest installment of our “Ask a Realtor” series.</em></p>
+
+<center>&nbsp;</center>
 
 Welcome back to our “Ask a Realtor” series. For today’s installment, we’ve brought on Tom and Cindy Ralston from Lyon Real Estate to discuss their experience in the industry.
 
