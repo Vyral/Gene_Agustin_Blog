@@ -22,7 +22,7 @@ youtube_code: c_upuGQExb0
 
 {% include youtube.html %}
 
-<p style="textalign: center;"><em>How can contingencies protect a buyer’s earnest deposit? Today we’ll be addressing this question in the latest installment of our “Ask a Realtor” series.</em></p>
+*How can contingencies protect a buyer’s earnest deposit? Today we’ll be addressing this question in the latest installment of our “Ask a Realtor” series.*
 
 <center>&nbsp;</center>
 
