@@ -3,11 +3,11 @@ layout: post
 title: 3 Contingencies That Can Protect Your Earnest Deposit
 category:
 tags:
-  - Market Update
-  - Real Estate
   - Buyer Tips
-  - Home Seller Tips
-excerpt:
+excerpt: >-
+  How can contingencies protect a buyer’s earnest deposit? Today we’ll be
+  addressing this question in the latest installment of our “Ask a Realtor”
+  series.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/2018/Gold+Star+Mortgage+Financial-+Protecting+Earnest+Money+Deposit+with+Contingencies.mp4
 pullquote: >-
@@ -22,6 +22,8 @@ thumbnail: 'http://img.youtube.com/vi/XXXXXXXXXXX/maxresdefault.jpg'
 &nbsp;
 
 {% include youtube.html %}
+
+How can contingencies protect a buyer’s earnest deposit? Today we’ll be addressing this question in the latest installment of our “Ask a Realtor” series.
 
 Welcome back to our “Ask a Realtor” series. For today’s installment, we’ve brought on Tom and Cindy Ralston from Lyon Real Estate to discuss their experience in the industry.
 
