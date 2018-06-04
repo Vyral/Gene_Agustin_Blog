@@ -22,7 +22,7 @@ youtube_code: c_upuGQExb0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>How can contingencies protect a buyer’s earnest deposit? Today we’ll be addressing this question in the latest installment of our “Ask a Realtor” series.</em></p>
+*How can contingencies protect a buyer’s earnest deposit? Today we’ll be addressing this question in the latest installment of our “Ask a Realtor” series.*
 
 <center>&nbsp;</center>
 
@@ -40,6 +40,6 @@ Now let’s take a closer look at each of these contingencies, individually. We�
 
 Next, there’s the matter of the appraisal contingency. The appraisal period usually lasts between 17 and 21 days, which is a similar time frame to loan or finance contingencies. While inspections verify quality, appraisals verify value. **If an issue arises during any of these processes, the buyer may cancel the contract.** And assuming the cancellation is fair and doesn’t breach the terms of the contract, the buyer will be able to get their earnest money back.
 
-If you have any other questions for either of today’s special guests, you can reach them by phone or  email. You can give Tom a call at (916) 849-1090 or email him at [tralston@golyon.com](mailto:tralston@golyon.com). Or you can call Cindy at (916) 715-6899, or send her an email at [cralson@golyon.com](mailto:cralson@golyon.com).
+If you have any other questions for either of today’s special guests, you can reach them by phone or email. You can give Tom a call at (916) 849-1090 or email him at [tralston@golyon.com](mailto:tralston@golyon.com). Or you can call Cindy at (916) 715-6899, or send her an email at [cralston@golyon.com](mailto:cralston@golyon.com).
 
 And, as always, if you have any other questions or would like more information from us, feel free to give us a call or send us an email. We look forward to hearing from you soon.
