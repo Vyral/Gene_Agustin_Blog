@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title: Another Episode of “Ask a Realtor”
 category:
