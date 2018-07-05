@@ -1,7 +1,7 @@
 ---
 ---
 layout: post
-title: 3 Contingencies That Can Protect Your Earnest Deposit
+title: Another Episode of “Ask a Realtor”
 category:
 tags:
   - Buyer Tips
