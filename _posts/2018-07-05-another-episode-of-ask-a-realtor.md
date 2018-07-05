@@ -20,7 +20,9 @@ youtube_code: 0022KLc18as
 
 {% insert youtube.html %}
 
-Tom and Cindy Ralston join me today to talk about veteran buyers and VA loans.
+<p style="text-align: center;"><em>Tom and Cindy Ralston join me today to talk about veteran buyers and VA loans.</em></p>
+
+<center>&nbsp;</center>
 
 In the latest episode of my “Ask a Realtor” series, I invited Tom and Cindy Ralston back from Lyon Real Estate to talk about veteran buyers.
 
