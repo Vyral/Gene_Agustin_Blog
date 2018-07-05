@@ -36,7 +36,7 @@ If a buyer wants to come in with a $0 down payment, we can get around some of th
 
 {% include pullquote.html %}
 
-**Lion Real Estate has certified both Tom and Cindy to be part of the MOM program.** Also called the Military on the Move program, it means a lot to Tom to be a part of it since he is an Air Force veteran and likes to give back.
+**Lyon Real Estate has certified both Tom and Cindy to be part of the MOM program.** Also called the Military on the Move program, it means a lot to Tom to be a part of it since he is an Air Force veteran and likes to give back.
 
 What happens with the MOM program is that Tom and Cindy give part of their commission back to the veteran. The nicest part of the program, though, is that if they have previously used their VA loan for a rental and are no longer eligible, MOM will still cover them. In fact, it can be used with an FHA or conventional loan as long as the person receiving the money is active or non-active military.
 
