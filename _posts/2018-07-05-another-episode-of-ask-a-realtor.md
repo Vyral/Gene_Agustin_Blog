@@ -18,7 +18,7 @@ youtube_alternate_image:
 youtube_code: 0022KLc18as
 ---
 
-{%insert youtube.html%}
+{% include youtube.html %}
 
 <p style="text-align: center;"><em>Tom and Cindy Ralston join me today to talk about veteran buyers and VA loans.</em></p>
 
@@ -34,7 +34,7 @@ Even with no finance contingencies and a shorter close, there can still be some 
 
 If a buyer wants to come in with a $0 down payment, we can get around some of the fees by using lender credit to pay for some of those items so that a seller does not have to pay for all of them.
 
-{%insert pullquote.html%}
+{% include pullquote.html %}
 
 **Lion Real Estate has certified both Tom and Cindy to be part of the MOM program.** Also called the Military on the Move program, it means a lot to Tom to be a part of it since he is an Air Force veteran and likes to give back.
 
