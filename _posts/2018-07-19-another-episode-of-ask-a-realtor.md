@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another Episode of “Ask a Realtor”
+title: What You Need to Know Before Listing
 category:
 tags:
   - Home Seller Tips
