@@ -18,7 +18,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: BG6X9Qja_VM
 ---
-
 {% include youtube.html %}
 
 <p style="text-align: center;"><em>Are you preparing to list your home but not sure what all you need to do before you do?</em></p>
