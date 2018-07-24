@@ -16,11 +16,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: BG6X9Qja_VM
+youtube_code: Uha78C6AbQg
 ---
+
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Are you preparing to list your home but not sure what all you need to do before you do?</em></p>
+*Are you preparing to list your home but not sure what all you need to do before you do?*
 
 Today we are continuing our “Ask a Realtor”series with Desiree Pointer and Nichole Moody of Realty One. They are rock stars in our industry, and definitely know how to serve their clients. This is why I have them here now to answer questions for you.
 
