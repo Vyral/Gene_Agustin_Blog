@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: >-
   Are you preparing to list your home but not sure what all you need to do
-  before you do?
+  first?
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/2018/Gold+Star+Mortgage+Financial-+preparing+to+list.mp4
 pullquote: >-
@@ -21,9 +21,9 @@ youtube_code: Uha78C6AbQg
 
 {% include youtube.html %}
 
-*Are you preparing to list your home but not sure what all you need to do before you do?*
+*Are you preparing to list your home but not sure what all you need to do first?*
 
-Today we are continuing our “Ask a Realtor”series with Desiree Pointer and Nichole Moody of Realty One. They are rock stars in our industry, and definitely know how to serve their clients. This is why I have them here now to answer questions for you.
+Today we are continuing our “Ask a Realtor” series with Desiree Pointer and Nichole Moody of Realty One. They are rock stars in our industry and definitely know how to serve their clients. This is why I have them here now to answer questions for you.
 
 One common question we receive is “What do I need to know before I list?” Since there is not a lot of inventory, **sellers are hesitant about putting their home on the market.** However, there are ways that you can secure a buyer while still looking for your new home.
 
@@ -39,6 +39,6 @@ After that, clean your house. There are things that you may not notice as a sell
 
 With regards to remodeling, you may want to repaint if your paint is very specific to you. A fresh coat of paint is inexpensive and it makes it look fresh and clean to potential buyers. You do not necessarily have to put a ton of money into your home to get value added.
 
-If you have any additional questions for Desiree or Nichole, you can reach them by phone or email. To reach Desiree, you can call (916) 259-3377 or email her at greatlincolnhome@gmail.com. And, to reach Nichole, you can call (916) 524-7804 or email her at nichole@agentmoody.com.
+If you have any additional questions for Desiree or Nichole, you can reach them by phone or email. To reach Desiree, you can call (916) 259-3377 or email her at [greatlincolnhome@gmail.com](mailto:greatlincolnhome@gmail.com). And, to reach Nichole, you can call (916) 524-7804 or email her at [nichole@agentmoody.com](mailto:nichole@agentmoody.com).
 
 As always, if you have any additional questions for me, you can always call or email. I look forward to speaking with you soon.
