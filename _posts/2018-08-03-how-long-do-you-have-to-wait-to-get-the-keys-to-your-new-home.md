@@ -18,7 +18,7 @@ youtube_code: NAumK7Lj4ns
 
 {% include youtube.html %}
 
-If you’re in the process of buying a new home, you can’t access that home until after escrow closes and the keys are handed over to you.
+<p style="text-align: center;"><em>If you’re in the process of buying a new home, you can’t access that home until after escrow closes and the keys are handed over to you.</em></p>
 
 As a homebuyer, how soon can you access your new property once you’re under contract?
 
