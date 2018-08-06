@@ -30,6 +30,6 @@ If you’re in the process of buying a home and you plan on making upgrades to i
 
 {% include pullquote.html %}
 
-**Typically, we see a confirmation of recording (or confirmation that the buyer is now the new owner) sometime in the afternoon.** How long you have to wait after this happens to get the keys to the home depends on your schedule. Tom and Cindy work around their clients’ schedules, but they usually try to get them their keys on the same day while it’s still daylight out so they can start moving in. In fact, the exact time of the exchange is written into the contract, and Tom and Cindy’s preferred time is usually 3 p.m.&nbsp;
+**Typically, we see a confirmation of recording (or confirmation that the buyer is now the new owner) sometime in the afternoon.** How long you have to wait after this happens to get the keys to the home depends on your schedule. Tom and Cindy work around their clients’ schedules, but they usually try to get them their keys on the same day while it’s still daylight so they can start moving in. In fact, the exact time of the exchange is written into the contract, and Tom and Cindy’s preferred time is usually 3 p.m.&nbsp;
 
 If you have any more questions for Tom or Cindy, you can find their contact information listed in the video above. As always, if you have any other questions for us, don’t hesitate to call or email us anytime. We’d be happy to help you.
