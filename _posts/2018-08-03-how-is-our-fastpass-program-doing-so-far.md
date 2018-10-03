@@ -3,9 +3,13 @@ layout: post
 title: How Is Our FastPASS Program Doing so Far?
 tags:
   - Real Estate
-excerpt:
-enclosure:
-pullquote:
+excerpt: How is our FastPASS program doing? Let's find out.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/2018/Gold+Star+Mortgage+Financial-+How+Is+Our+FastPASS+Program+Doing+so+Far%253F.mp4
+pullquote: >-
+  When we go through the program with you, you are able to write shorter offers
+  with no finance contingencies which puts you in a great place to compete with
+  cash offers.
 enclosure_type:
 enclosure_time:
 use_youtube_image: false
@@ -15,7 +19,7 @@ youtube_code: XQTurPOddw4
 
 {% include youtube.html %}
 
-*If you’re in the process of buying a new home, you can’t access that home until after escrow closes and the keys are handed over to you.*
+*How is our FastPASS program doing? Let's find out.*
 
 Today I want to give you a quick update about our FastPASS program.
 
