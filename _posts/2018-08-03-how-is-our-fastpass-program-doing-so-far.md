@@ -19,7 +19,7 @@ youtube_code: XQTurPOddw4
 
 {% include youtube.html %}
 
-*How is our FastPASS program doing? Let's find out.*
+<p style="text-align: center;"><em>How is our FastPASS program doing? Let's find out.</em></p>
 
 Today I want to give you a quick update about our FastPASS program.
 
