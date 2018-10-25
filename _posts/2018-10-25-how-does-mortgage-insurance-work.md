@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today Jen Sopinski from National MI is here to help us answer some questions
   about mortgage insurance.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Gene+Agustin/2018/Gold+Star+Mortgage+Financial-+What+is+mortgage+insurance%253F.mp4
 pullquote: It's a common misconception that you need 20% down to purchase a home
 enclosure_type: video/mp4
 enclosure_time:
