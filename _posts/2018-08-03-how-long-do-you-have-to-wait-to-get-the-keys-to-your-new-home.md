@@ -11,7 +11,7 @@ enclosure: >-
 pullquote: Accessing a property before you own it can cause liability problems.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: NAumK7Lj4ns
 ---
