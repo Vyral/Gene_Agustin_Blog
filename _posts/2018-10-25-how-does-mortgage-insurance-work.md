@@ -18,7 +18,7 @@ youtube_code: rxABBN_2fUA
 
 {% include youtube.html %}
 
-Today Jen Sopinski from National MI is here to help us answer some questions about mortgage insurance.
+<p style="text-align: center;"><em>Today Jen Sopinski from National MI is here to help us answer some questions about mortgage insurance.</em></p>
 
 Today begins the launch of a whole new series all about mortgage insurance (MI). To help us kick off the series and answer some important questions, we brought in mortgage insurance queen Jen Sopinski from [National MI.](https://www.nationalmi.com/){: target="_blank"}
 
