@@ -20,7 +20,7 @@ youtube_code: vgwTSrpR_Wg
 
 {% include youtube.html %}
 
-Jen Sopinski joined me recently to talk about mortgage insurance and how you can get rid of it. According to her, there are a few different ways to go about it.
+<p style="text-align: center;"><em>Jen Sopinski joined me recently to talk about mortgage insurance and how you can get rid of it. According to her, there are a few different ways to go about it.</em></p>
 
 I was recently joined by my friend Jen Sopinksi from National MI to answer a few questions about how homeowners can get rid of private mortgage insurance.
 
