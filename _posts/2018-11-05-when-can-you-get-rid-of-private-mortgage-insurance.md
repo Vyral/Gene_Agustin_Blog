@@ -26,7 +26,7 @@ I was recently joined by my friend Jen Sopinksi from National MI to answer a few
 
 **There are two different ways to cancel.** Mortgage insurance will automatically cancel at 78% loan-to-value. Your borrower can also request a cancellation at 80% loan-to-value. Both of these numbers are based on the original value of the home when you bought it.
 
-**If the property has appreciated since you’ve bought it, you can also have mortgage insurance dropped based on its current value.** The loan needs to have been serviced for at least two years and then you can request a drop in mortgage insurance at 78% loan to value. If it’s more than 5 years, you can request at 80% loan to value. It’s always wise to accomplish this through whoever is servicing the loan.
+**If the property has appreciated since you’ve bought it, you can also have mortgage insurance dropped based on its current value.** The loan needs to have been serviced for at least two years and then you can request a drop in mortgage insurance at 78% loan to value. If it’s more than five years, you can request at 80% loan to value. It’s always wise to accomplish this through whoever is servicing the loan.
 
 {% include pullquote.html %}
 
