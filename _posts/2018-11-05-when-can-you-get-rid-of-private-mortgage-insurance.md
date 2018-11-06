@@ -32,6 +32,6 @@ I was recently joined by my friend Jen Sopinksi from National MI to answer a few
 
 **There’s also a third way that you can drop your mortgage insurance.** With our clients who are paying mortgage insurance, we will track the market and once we know they have enough equity to drop the mortgage insurance, we can help them refinance into a loan that doesn’t have mortgage insurance. It helps us stay in touch and save our clients some money in the process.
 
-If you have any questions for Jen about mortgage insurance, you can reach out to her at (510) 788-8618 or send her an email to Jen.Sopinksi@nationalami.com.
+If you have any questions for Jen about mortgage insurance, you can reach out to her at (510) 788-8618 or send her an email to <a href="mailto:jen.sopinski@nationalami.com" target="_blank">Jen.Sopinksi@nationalami.com.</a>
 
 If you have any other questions for us, don’t hesitate to give us a call or send us an email anytime. We look forward to hearing from you soon.
