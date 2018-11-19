@@ -19,7 +19,7 @@ youtube_code: jTqz7o2gJrA
 
 {% include youtube.html %}
 
-In the last part of our series on mortgage insurance, we look at options for payment.
+<p style="text-align: center;"><em>In the last part of our series on mortgage insurance, we look at options for payment.</em></p>
 
 We’re wrapping up our series about mortgage insurance today with one final topic. Jen Sopinski [from National MI](https://www.nationalmi.com/){: target="_blank"} joins us again to answer this question: **How do you pay for mortgage insurance?**
 
